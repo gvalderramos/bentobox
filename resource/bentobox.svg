@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="bentobox.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.98119967"
+     inkscape:cx="105.9927"
+     inkscape:cy="417.85583"
+     inkscape:window-width="3072"
+     inkscape:window-height="1659"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d40000;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1"
+       width="33.866665"
+       height="33.866665"
+       x="48.020924"
+       y="45.540115"
+       rx="2"
+       ry="2"
+       inkscape:export-filename="bentobox.png"
+       inkscape:export-xdpi="88.940002"
+       inkscape:export-ydpi="88.940002" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.127329,62.473447 H 81.781181"
+       id="path2" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.954255,62.235104 V 45.646521"
+       id="path3" />
+    <g
+       id="g4"
+       transform="translate(36.682933,-11.015214)">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path4"
+         cx="19.886902"
+         cy="64.784103"
+         r="4.4492726" />
+      <circle
+         style="fill:#ff8080;stroke:none;stroke-width:0.274116;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle4"
+         cx="19.886902"
+         cy="64.784103"
+         r="2.3047922" />
+    </g>
+    <g
+       id="g6"
+       transform="translate(53.671066,-11.015214)">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle5"
+         cx="19.886902"
+         cy="64.784103"
+         r="4.4492726" />
+      <circle
+         style="fill:#ff8080;stroke:none;stroke-width:0.274116;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle6"
+         cx="19.886902"
+         cy="64.784103"
+         r="2.3047922" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect6"
+       width="20.156553"
+       height="9.5052652"
+       x="54.941776"
+       y="65.997551"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#ff8080;stroke:none;stroke-width:0.381285;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect7"
+       width="19.415007"
+       height="5.1234055"
+       x="55.278843"
+       y="68.15477"
+       ry="0" />
+  </g>
+</svg>
